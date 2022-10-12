@@ -1,0 +1,114 @@
+body {
+    background: url(background.jpg) no-repeat center;
+    background-size: cover;
+
+}
+
+
+#container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+    padding: 40 40 0 40;    
+    background-color: rgba(10, 10, 10, 0.7);
+    margin-top: 60px;
+    border-radius: 15px
+}
+
+
+.logo {
+    background-color: blueviolet;
+    height: 105px;
+    background: url(logo.png) no-repeat center center;
+    background-size: 190px;
+}
+
+h1 {
+    text-align: center;
+    color: limegreen;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+    margin: 4px
+}
+
+
+
+nav {
+    background-color: limegreen;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.prenotazione {
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: 12;
+    font-family: sans-serif;
+    border: 1px solid grey;
+    background-color: white;
+    padding: 1px;
+
+}
+
+main {
+    color: white;
+    height: 400;
+    margin-top: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    
+}
+
+.gino22 {
+    height: 110px;
+    
+}
+
+.caricaGino {
+    height: 23px;
+    width: 220px;
+    background-color: FFA500;
+    border-radius: 4px;
+    position: relative;
+    bottom: 9px;
+
+}
+
+.mike24 {
+    height: 110px;
+     
+}
+
+.caricaMike {
+    height: 23px;
+    width: 430px;
+    background-color: 228B22;
+    border-radius: 4px;
+    position: relative;
+    bottom: 9px;
+    
+}
+
+.fede154 {
+    height: 110px;
+    
+}
+
+.caricaFede {
+    height: 23px;
+    width: 100px;
+    background-color: brown;
+    border-radius: 4px;
+    position: relative;
+    bottom: 9px;
+    
+}
+
+p {
+    font-size: 11px;
+    
+}
